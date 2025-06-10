@@ -2,6 +2,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/proofplatform',
+  assetPrefix: '/proofplatform/',
   eslint: {
     ignoreDuringBuilds: true,
   },
